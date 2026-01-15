@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently doing the java full stack course.<br>My background is BE-IT (Information Technology).<br>my Graduation is year is 2024.<br>I'm looking for the opportunity in java development.<br>
+I'm a Java Developer with a strong foundation in Object-Oriented Programming, Core Java, and backend development. I enjoy building clean, efficient, and scalable applications while continuously improving my problem-solving skills.
+<br>
+My background is BE-IT (Information Technology).
+<br>
+I did my Graduation in year 2024.
+<br>
+I'm looking for the opportunity in java development.<br>
 
 
 # 💻 Tech Stack:
