@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Java Developer with a strong foundation in Object-Oriented Programming, Core Java, and backend development. I enjoy building clean, efficient, and scalable applications while continuously improving my problem-solving skills.
+I'm a Java Developer with a strong foundation in Object-Oriented Programming, Core Java, and software development. I enjoy building clean, efficient, and scalable applications while continuously improving my problem-solving skills.
 <br>
 My background is BE-IT (Information Technology).
 <br>
